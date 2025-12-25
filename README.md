@@ -36,3 +36,8 @@ Building the same service in different languages helps you:
 ---
 
 **Start exploring**: Pick any project folder and dive into its README to get started!
+
+## Author
+
+**Ujjwal Kirti**
+GitHub: [@ujjwalkirti](https://github.com/ujjwalkirti)
