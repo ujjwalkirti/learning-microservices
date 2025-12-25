@@ -1,0 +1,55 @@
+# Build artifacts
+target/
+dist/
+node_modules/
+*.class
+*.jar
+*.war
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Rust
+Cargo.lock
+/target
+**/*.rs.bk
+
+# Go
+bin/
+*.o
+*.a
+*.so
+
+# Node.js
+npm-debug.log
+yarn-error.log
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Database
+*.db
+*.sqlite
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+.docker/
+docker-compose.override.yml
+
+# Coverage
+coverage/
+.coverage
